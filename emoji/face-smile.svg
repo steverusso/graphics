@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="face-smile.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.83762581"
+     inkscape:cx="231.44319"
+     inkscape:cy="427.10321"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer13"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide4341"
+       orientation="1,0"
+       position="80.133673,17.790414" />
+    <sodipodi:guide
+       id="guide4343"
+       orientation="1,0"
+       position="119.90698,205.95863" />
+    <sodipodi:guide
+       id="guide4345"
+       orientation="0,-1"
+       position="218.96646,112.36931" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       r="97.457855"
+       style="fill:#f7e65d;fill-opacity:1;stroke:#d5ac11;stroke-width:5.08429;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path10"
+       cx="100"
+       cy="100" />
+  </g>
+  <g
+     inkscape:label="mouth"
+     id="layer14"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#765000;fill-opacity:1;stroke:#765000;stroke-width:8.34401;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path907"
+       sodipodi:type="arc"
+       sodipodi:cx="99.999985"
+       sodipodi:cy="123.46439"
+       sodipodi:rx="59.043472"
+       sodipodi:ry="43.703697"
+       sodipodi:start="0"
+       sodipodi:end="3.1406153"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 159.04346,123.46439 a 59.043472,43.703697 0 0 1 -59.01462,43.7037 59.043472,43.703697 0 0 1 -59.072299,-43.66098 z" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.89744;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path909"
+       sodipodi:type="arc"
+       sodipodi:cx="97.600212"
+       sodipodi:cy="127.31802"
+       sodipodi:rx="50.034302"
+       sodipodi:ry="16.010862"
+       sodipodi:start="0"
+       sodipodi:end="3.1406153"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="M 147.63451,127.31802 A 50.034302,16.010862 0 0 1 97.624663,143.32888 50.034302,16.010862 0 0 1 47.565934,127.33367 Z"
+       transform="matrix(1,0,0.01884392,0.99982244,0,0)" />
+  </g>
+  <g
+     inkscape:label="eyes"
+     id="layer13"
+     inkscape:groupmode="layer">
+    <circle
+       r="18"
+       style="fill:#765000;fill-opacity:1;stroke:#9f5d00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4365"
+       cx="62.012657"
+       cy="69.069077" />
+    <circle
+       r="18"
+       cy="69.317787"
+       cx="137.5925"
+       id="circle5034"
+       style="fill:#765000;fill-opacity:1;stroke:#9f5d00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

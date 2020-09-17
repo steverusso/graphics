@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="32.384998"
+   inkscape:export-xdpi="32.384998"
+   inkscape:export-filename="/home/steve/projects/bigtech.fail/website/static/img/emoji/locked.png"
+   sodipodi:docname="locked.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg5102"
+   version="1.1"
+   viewBox="0 0 200 200"
+   height="200mm"
+   width="200mm">
+  <defs
+     id="defs5096" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1015"
+     inkscape:window-width="1920"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer16"
+     inkscape:document-units="mm"
+     inkscape:cy="381.39945"
+     inkscape:cx="308.15203"
+     inkscape:zoom="1.0196127"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5099">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="arc-with-rect"
+     id="layer16"
+     inkscape:groupmode="layer">
+    <rect
+       ry="45.201046"
+       y="13.398571"
+       x="54.798954"
+       height="122.23764"
+       width="90.402092"
+       id="rect5721"
+       style="fill:none;fill-opacity:1;stroke:#aaaaaa;stroke-width:18;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="base">
+    <rect
+       y="95.599976"
+       x="38.335072"
+       height="89.366074"
+       width="123.32986"
+       id="rect5104"
+       style="fill:#ffb100;fill-opacity:1;stroke:#ffb100;stroke-width:20.9317;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="arc"
+     id="layer15"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:open="true"
+       transform="scale(1,-1)"
+       d="M 151.71406,-83.899948 A 51.714081,66.481407 0 0 1 100.03242,-17.418554 51.714081,66.481407 0 0 1 48.285937,-83.81653"
+       sodipodi:arc-type="arc"
+       sodipodi:end="3.1403379"
+       sodipodi:start="0"
+       sodipodi:ry="66.481407"
+       sodipodi:rx="51.714081"
+       sodipodi:cy="-83.899948"
+       sodipodi:cx="99.999977"
+       sodipodi:type="arc"
+       id="path5717"
+       style="fill:none;fill-opacity:1;stroke:#aaaaaa;stroke-width:18;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
