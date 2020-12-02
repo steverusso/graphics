@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="33.060001"
+   inkscape:export-xdpi="33.060001"
+   inkscape:export-filename="/home/steve/projects/bigtech.fail/website/static/img/emoji/face-monocle.png"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="face-monocle.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.83762581"
+     inkscape:cx="379.96868"
+     inkscape:cy="408.00985"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer9"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide3064"
+       orientation="1,0"
+       position="100.0698,205.00902" />
+    <sodipodi:guide
+       id="guide3066"
+       orientation="0,-1"
+       position="212.36695,99.863995" />
+    <sodipodi:guide
+       id="guide3068"
+       orientation="1,0"
+       position="82.617008,204.4931" />
+    <sodipodi:guide
+       id="guide3070"
+       orientation="1,0"
+       position="117.40022,205.064" />
+    <sodipodi:guide
+       id="guide3117"
+       orientation="0,-1"
+       position="51.171417,165.56985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#f7e65d;fill-opacity:1;stroke:#d5ac11;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path10"
+       cx="100"
+       cy="100"
+       r="95.842163" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="chain"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#333333;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 178.87383,80.327508 178.15879,190.79052"
+       id="path1099" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="monocle">
+    <circle
+       style="fill:#a3f2ff;fill-opacity:0.6;stroke:#808588;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1095"
+       cx="136.64146"
+       cy="79.983788"
+       r="42.307426" />
+  </g>
+  <g
+     inkscape:label="eyes"
+     id="layer8"
+     inkscape:groupmode="layer">
+    <ellipse
+       style="fill:#765000;fill-opacity:1;stroke:#d40000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2452"
+       cx="68.395485"
+       cy="80.018845"
+       rx="14"
+       ry="20" />
+    <ellipse
+       style="fill:#765000;fill-opacity:0.25;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+       id="path2452-3"
+       cx="131.74588"
+       cy="81.262886"
+       rx="10.559917"
+       ry="15.085596" />
+  </g>
+  <g
+     inkscape:label="eyebrows"
+     id="layer9"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:open="true"
+       transform="matrix(-0.30053809,-0.95376981,0.88398668,-0.46751209,0,0)"
+       d="M -56.612625,26.740142 A 51.870243,32.238293 0 0 1 -86.958332,66.362417"
+       sodipodi:arc-type="arc"
+       sodipodi:end="1.1928355"
+       sodipodi:start="5.978886"
+       sodipodi:ry="32.238293"
+       sodipodi:rx="51.870243"
+       sodipodi:cy="36.399532"
+       sodipodi:cx="-106.0998"
+       sodipodi:type="arc"
+       id="path3113"
+       style="fill:none;fill-opacity:1;stroke:#765000;stroke-width:11.0912;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#765000;stroke-width:12.0151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.649295,152.85263 40.396775,0.099"
+       id="path1150" />
+  </g>
+</svg>
