@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46666"
+   version="1.1"
+   id="svg1155"
+   inkscape:export-filename="/home/steve/projects/bigtech.fail/website/static/img/icons/privacy.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="eye.svg">
+  <defs
+     id="defs1149" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3751417"
+     inkscape:cx="273.86252"
+     inkscape:cy="262.80312"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="outline" />
+  <g
+     inkscape:label="eye"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path1762"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.18511;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 67.732571,21.166669 A 68.68717,61.638142 0 0 0 1.1310076,67.733342 68.68717,61.638142 0 0 0 67.734105,114.3 68.68717,61.638142 0 0 0 134.33566,67.733342 68.68717,61.638142 0 0 0 67.732571,21.166669 Z" />
+    <path
+       id="path1759"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.72711;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 67.732631,27.475292 A 63.013114,53.287711 0 0 0 6.6328385,67.733342 63.013114,53.287711 0 0 0 67.734039,107.99139 63.013114,53.287711 0 0 0 128.83383,67.733342 63.013114,53.287711 0 0 0 67.732631,27.475292 Z" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.81079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path984"
+       cx="67.73333"
+       cy="67.73333"
+       rx="26.04081"
+       ry="27.660286" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.08896;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path986"
+       cx="67.73333"
+       cy="67.73333"
+       rx="11.59449"
+       ry="12.920821" />
+  </g>
+</svg>
